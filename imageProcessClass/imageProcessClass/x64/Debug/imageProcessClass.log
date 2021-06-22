@@ -1,0 +1,47 @@
+﻿  8_zone.cpp
+d:\opencv\opencv-4.5.2-vc14_vc15\build\install\include\opencv2\xfeatures2d.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\visual studio\cpro\imageprocessclass\imageprocessclass\8_zone.cpp(57): warning C4244: “参数”: 从“int”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+d:\visual studio\cpro\imageprocessclass\imageprocessclass\8_zone.cpp(84): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+d:\visual studio\cpro\imageprocessclass\imageprocessclass\8_zone.cpp(91): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\visual studio\cpro\imageprocessclass\imageprocessclass\8_zone.cpp(110): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\visual studio\cpro\imageprocessclass\imageprocessclass\8_zone.cpp(116): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+d:\visual studio\cpro\imageprocessclass\imageprocessclass\8_zone.cpp(122): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+d:\visual studio\cpro\imageprocessclass\imageprocessclass\8_zone.cpp(136): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\visual studio\cpro\imageprocessclass\imageprocessclass\8_zone.cpp(142): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+d:\visual studio\cpro\imageprocessclass\imageprocessclass\8_zone.cpp(144): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+d:\visual studio\cpro\imageprocessclass\imageprocessclass\8_zone.cpp(146): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+d:\visual studio\cpro\imageprocessclass\imageprocessclass\8_zone.cpp(154): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\visual studio\cpro\imageprocessclass\imageprocessclass\8_zone.cpp(162): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\visual studio\cpro\imageprocessclass\imageprocessclass\8_zone.cpp(177): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\visual studio\cpro\imageprocessclass\imageprocessclass\8_zone.cpp(182): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\visual studio\cpro\imageprocessclass\imageprocessclass\8_zone.cpp(185): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\visual studio\cpro\imageprocessclass\imageprocessclass\8_zone.cpp(190): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  imageProcessClass.vcxproj -> D:\Visual Studio\Cpro\imageProcessClass\x64\Debug\imageProcessClass.exe
